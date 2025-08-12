@@ -22,7 +22,7 @@ I'm **Shishir Adhikari**, a IT student at **Amrit Campus** (Tribhuvan University
 ---
 
 ## 📫 Get in Touch
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** shishiradhikari1829@gmail.com
 - 💼 [LinkedIn](linkedin.com/in/shishir-adhikari-b97951349)  
 - 🌐 [X(twitter)](https://x.com/Shishir557)
 
