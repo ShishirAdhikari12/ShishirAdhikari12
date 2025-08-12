@@ -1,11 +1,10 @@
 # Hi there 👋
 
-I'm **Shishir Adhikari**, a IT student at **Amrit Campus** (Tribhuvan University), passionate about learning and building projects in web development, programming, and emerging technologies.
+I'm **Shishir Adhikari**,passionate about learning and building projects in web development, programming, and emerging technologies.
 
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 **BIT** student at Amrit Campus, Nepal
 - 💻 Interested in **MERN Stack**, **Python**, and **Django**
 - 🌱 Currently improving my skills in **React.js** and **JavaScript**
 - 📚 Exploring Data Structures, Algorithms, and Software Engineering concepts
