@@ -1,15 +1,5 @@
 # Hi there 👋
-
 I'm **Shishir Adhikari**,passionate about learning and building projects in web development, programming, and emerging technologies.
-
----
-
-## 👨‍🎓 About Me
-- 💻 Interested in **MERN Stack**, **Python**, and **Django**
-- 🌱 Currently improving my skills in **React.js** and **JavaScript**
-- 📚 Exploring Data Structures, Algorithms, and Software Engineering concepts
-
----
 
 ## 🛠️ Skills & Tools
 - **Languages:** C++, JavaScript, Python
