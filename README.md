@@ -1,15 +1,73 @@
-# Hi, I'm Shishir
+# Hi, I'm Shishir Adhikari
 
-I’m currently learning Laravel and improving my backend development skills.
+**Backend-focused Web Developer | Laravel & PHP**
 
-Focused on building practical projects and strengthening my understanding of web development.
----
+I'm a BIT student and web developer focused on building practical, maintainable web applications.
 
-## 📫 Get in Touch
-- 📧 **Email:** shishiradhikari1829@gmail.com
-- 💼 [LinkedIn](linkedin.com/in/shishir-adhikari-b97951349)  
-- 🌐 [X(twitter)](https://x.com/Shishir557)
+My current focus is **Laravel, PHP, REST APIs, databases, and modern frontend development with React**. I enjoy learning by building real-world projects and improving how I design, structure, and deploy applications.
 
----
+## About Me
 
-_“The best way to learn is to build.”_
+- 🎓 Bachelor of Information Technology student
+- 💻 Focused on backend and full-stack web development
+- 🔧 Currently working with **Laravel, PHP, MySQL, React, and Tailwind CSS**
+- 📚 Improving my knowledge of **REST APIs, database design, authentication, testing, and deployment**
+- 🛠️ I learn primarily through building projects and solving practical problems
+
+## Tech Stack
+
+### Backend
+
+`PHP` · `Laravel` · `REST APIs`
+
+### Frontend
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Tailwind CSS`
+
+### Database
+
+`MySQL` · `PostgreSQL`
+
+### Tools
+
+`Git` · `GitHub` · `Docker` · `VS Code` · `Linux`
+
+## Projects
+
+### Medium Clone
+
+A blogging platform built with Laravel featuring authentication, publishing, categories, following, claps, profiles, and scheduled posts.
+
+**Tech:** Laravel · PHP · MySQL · Blade · Tailwind CSS
+<!--
+### Multi-Vendor E-Commerce Platform
+
+A marketplace application focused on multiple vendors, products, orders, and store management.
+
+**Tech:** Laravel · React · MySQL
+
+### Project Management System
+
+A full-stack project management application designed around projects, tasks, users, and team collaboration.
+
+**Tech:** Laravel · React · REST API · MySQL
+-->
+## Currently Learning
+
+- Advanced Laravel and Eloquent
+- RESTful API development
+- React and modern frontend architecture
+- Database optimization and query design
+- Testing and application architecture
+- Docker and deployment
+- Writing clean and maintainable code
+
+## GitHub
+
+Most of my repositories are learning-focused projects where I experiment with new technologies, implement features, and improve my development practices.
+
+I believe in **building consistently, understanding the fundamentals, and improving through practical experience.**
+
+## Connect
+
+[GitHub](https://github.com/ShishirAdhikari12)
