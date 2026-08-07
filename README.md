@@ -70,4 +70,4 @@ I believe in **building consistently, understanding the fundamentals, and improv
 
 ## Connect
 
-[GitHub](https://github.com/ShishirAdhikari12)
+[GitHub](https://github.com/ShishirAdhikari12) · [LinkedIn](https://www.linkedin.com/in/shishir--adhikari/)
