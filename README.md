@@ -34,7 +34,7 @@ My current focus is **Laravel, PHP, REST APIs, databases, and modern frontend de
 
 ## Projects
 
-### Medium Clone
+### [Medium Clone](https://medium-clone1829.onrender.com/)
 
 A blogging platform built with Laravel featuring authentication, publishing, categories, following, claps, profiles, and scheduled posts.
 
@@ -45,13 +45,13 @@ A blogging platform built with Laravel featuring authentication, publishing, cat
 A marketplace application focused on multiple vendors, products, orders, and store management.
 
 **Tech:** Laravel · React · MySQL
-
-### Project Management System
-
-A full-stack project management application designed around projects, tasks, users, and team collaboration.
-
-**Tech:** Laravel · React · REST API · MySQL
 -->
+### [TaskFlow – Project Management System](https://github.com/ShishirAdhikari12/project-management)
+
+A full-stack project management application built with Laravel and React for managing projects, tasks, users, and team collaboration. Features project and task management, task assignment, authentication, search, filtering, pagination, image uploads, dark mode, and a Docker-based development environment with a RESTful API backend.
+
+**Tech:** Laravel · PHP · React · REST API · MySQL · Tailwind CSS · Docker · Nginx
+
 ## Currently Learning
 
 - Advanced Laravel and Eloquent
