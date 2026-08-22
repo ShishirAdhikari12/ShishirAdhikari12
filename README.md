@@ -48,9 +48,9 @@ A marketplace application focused on multiple vendors, products, orders, and sto
 -->
 ### [TaskFlow – Project Management System](https://github.com/ShishirAdhikari12/project-management)
 
-A full-stack project management application built with Laravel and React for managing projects, tasks, users, and team collaboration. Features project and task management, task assignment, authentication, search, filtering, pagination, image uploads, dark mode, and a Docker-based development environment with a RESTful API backend.
+A full-stack project management application built with Laravel, React, and Inertia.js. Features authentication, project and task management, task assignment, search, filtering, pagination, image uploads, dark mode, and a Docker-based development environment.
 
-**Tech:** Laravel · PHP · React · REST API · MySQL · Tailwind CSS · Docker · Nginx
+**Tech:** Laravel · React · Inertia.js · PHP · MySQL · Tailwind CSS · Docker · Nginx
 
 ## Currently Learning
 
