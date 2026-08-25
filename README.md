@@ -79,12 +79,16 @@ A full-stack project management app built with Laravel, React, and Inertia.js. F
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ShishirAdhikari12&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShishirAdhikari12&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ShishirAdhikari12&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShishirAdhikari12&theme=default&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShishirAdhikari12&theme=github" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShishirAdhikari12&theme=github" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShishirAdhikari12&theme=github" />
 </p>
 
 Most of my repositories are learning-focused projects where I experiment with new technologies, implement features, and refine how I build.
